@@ -29,7 +29,8 @@ The main UI implementation is in:
 
 Preview:
 
-![Semantrix Homepage](inspiration_ui.png)
+<img width="1902" height="792" alt="home page with search" src="https://github.com/user-attachments/assets/dd8c821c-555a-4d73-be7a-85572dabcb24" />
+
 
 ## Project Architecture
 
