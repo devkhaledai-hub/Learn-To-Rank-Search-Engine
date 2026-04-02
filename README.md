@@ -1,5 +1,10 @@
 # Semantrix: Learning-to-Rank Search Engine
 
+
+https://github.com/user-attachments/assets/18ba962b-e80a-4804-83e3-ac4684594cb1
+
+
+
 Semantrix is a production-style, two-stage search engine built on MS MARCO-style data.  
 It combines:
 
